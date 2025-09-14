@@ -1,0 +1,7 @@
+langchain_huggingface
+langchain
+langchain-community
+langchain-core
+langgraph
+trafilatura
+python-dotenv
